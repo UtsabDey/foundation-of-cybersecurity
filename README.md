@@ -43,7 +43,9 @@ This module addresses some introductory information (e.g., the relevance of cybe
 
 This module covers how some security aspects can be analyzed and modeled. Specifically, it covers the Common Weaknesses Enumeration (CWE), the Common Vulnerability Enumeration (CVE), the Common Vulnerability Scoring System (CVSS), as well as a basic discussion on testing approaches (static and fuzzing). The related material contains some reference papers and a tutorial/challenge for fuzz-testing the xpdf package via the AFL fuzzer. 
 
+## Module 3 - Software Supply Chain Security
 
+This module deals with major attack entry points and security implications of modern software supply chains. In more detail, it covers threats against source code and dependencies, *-squatting techniques, and Software Bill of Materials (SBOMs). The module also presents some mitigation techniques, i.e., debloating and reproducible builds. The related material containes some reference papers, SBOMs in .json/Cyclone-DX format, and small examples to be used against Grype and diffoscope. A simple "SquatScanner" tool is also provided, which can be used as a challenge and to understand how to build your own testing tools. 
 
 
 ## Acknowledgments 
