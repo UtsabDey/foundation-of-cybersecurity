@@ -59,9 +59,9 @@ This module reviews the major aspect of network security. Specifically, it cover
 
 ## Module 6 - Information Hiding
 
-This module introduces advanced and emerging offensive schemes based on information hiding. In more detail, it discusses network and local covert channels, with many examples related to real attack campaigns. The module also presents the concept of stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. Throughout the module,  indications on the double-edged nature of information hiding will be provided as well as the main challenges to be faced for creating countermeasures. The related matieral contains introductive papers on the topic and some various demonstrating covert communications. 
+This module introduces advanced offensive schemes based on information hiding. In more detail, it discusses network and local covert channels, with many examples related to emerging real attack campaigns. The module also presents the concept of stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. Throughout the module, the *double-edged* nature of information hiding will be emphasized as well as the main challenges for creating countermeasures. The related matieral contains introductive papers on the topic and some videos demonstrating covert communications. 
 
-**DISCLAIMER:** concepts belonging to this module are at the intersection between academia and research. The idea here is to present advanced techniques that require some effort to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker. 
+**DISCLAIMER:** concepts belonging to this module are at the intersection between academia and research. The idea here is to present advanced techniques that require a "nice thinking" to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker. 
 
 ## Seminar - Vulnerability Discovery: SAST and Fuzz Testing
 
