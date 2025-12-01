@@ -61,11 +61,15 @@ This module reviews the major aspect of network security. Specifically, it cover
 
 This module introduces advanced offensive schemes based on information hiding. In more detail, it discusses network and local covert channels, with many examples related to emerging real attack campaigns. The module also presents the concept of stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. Throughout the module, the *double-edged* nature of information hiding will be emphasized as well as the main challenges for creating countermeasures. The related matieral contains introductive papers on the topic and some videos demonstrating covert communications. 
 
-**DISCLAIMER:** concepts belonging to this module are at the intersection between academia and research. The idea here is to present advanced techniques that require a "nice thinking" to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker. 
+**DISCLAIMER:** concepts belonging to this module are at the intersection between academia and research. The idea here is to present advanced techniques that require a "nice thinking" to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker.
 
 ## Seminar - Vulnerability Discovery: SAST and Fuzz Testing
 
 This seminar showcases basic information on sofware testing, mainly static analysis security testing and fuzz testing. The related material contains slides of the seminar as well as some referene literature. The files used in the seminar (e.g., AFL++ configuration and the tested xpdf packages) are already present in **Module 2 - Security Analysis and Modeling**. Even if the "hands on" labs done during the seminar are not strictly part of the course, the basic concepts should be known as they complete the knowledge needed to spot possible security issues and exploitable behaviors of software. 
+
+## Presentations - Assignments 
+
+This folder contains the .pdf version of the assignments needed to skip part of the final exam. Each team presented to all the attendees of the course a well-defined cybersecurity aspect (e.g., a defensive technique, threat, attack campaign, or emerging hazard) that has been introduced during the lectures. Presentations are part of the course material since they offer alternative viewpoints or an in-depth analysis of a major cybersecurity aspect. 
 
 ## Acknowledgments 
 
