@@ -59,7 +59,7 @@ This module reviews the major aspect of network security. Specifically, it cover
 
 ## Module 6 - Information Hiding
 
-This module introduces how information hiding mechanisms can be used both as offensive and defensive mechanisms. In more detail, it first discusses covert channels, with many examples related to emerging real attack campaigns. The module also presents the concept of stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. The module then discusses watermarking techniques that can be used to track and protect different types of contents, mainly software and AI. Throughout the module, the *double-edged* nature of information hiding will be emphasized as well as the main challenges for creating countermeasures. The related matieral contains introductive papers on the topic, some videos demonstrating covert communications, and examples on how watermark AI models and network traffic (the latter also serves as a demo for a network covert channel).
+This module introduces how information hiding mechanisms can be used both as offensive and defensive mechanisms. In more detail, it first discusses covert channels, with many examples related to emerging real attack campaigns. Then it presents stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. The module also discusses watermarking techniques that can be used to track and protect different types of contents, mainly software and AI. The related matieral contains introductive papers on the topic, some videos on covert communications, and examples on how to mark AI models and network traffic.
 
 **DISCLAIMER:** concepts belonging to this module are at the intersection between industry and research. The idea here is to present advanced techniques that require a "nice thinking" to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker.
 
@@ -69,7 +69,13 @@ This seminar showcases basic information on sofware testing, mainly static analy
 
 ## Presentations - Assignments 
 
-This folder contains the .pdf version of the assignments needed to skip part of the final exam. Each team presented to all the attendees of the course a well-defined cybersecurity aspect (e.g., a defensive technique, threat, attack campaign, or emerging hazard) that has been introduced during the lectures. Presentations are part of the course material since they offer alternative viewpoints or an in-depth analysis of a major cybersecurity aspect. 
+This folder contains the .pdf version of the assignments needed to skip part of the final exam. Each team prepared and presented a small monograph on a well-defined topic (e.g., a defensive technique, threat, attack campaign, or emerging hazard) that has been introduced during the lectures. Presentations are part of the course material since they offer alternative viewpoints or an in-depth analysis of major cybersecurity aspects. 
+
+Covered topics are: 
+
+- Software Supply Chain attacks and SolarWinds
+- ARP Spoofing and Man-in-the-Middle attacks
+
 
 ## Acknowledgments 
 
