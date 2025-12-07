@@ -59,7 +59,7 @@ This module reviews the major aspect of network security. Specifically, it cover
 
 ## Module 6 - Information Hiding
 
-This module introduces how information hiding mechanisms can be used both as offensive and defensive mechanisms. In more detail, it first discusses covert channels, with many examples related to emerging real attack campaigns. Then it presents stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. The module also discusses watermarking techniques that can be used to track and protect different types of contents, mainly software and AI. The related matieral contains introductive papers on the topic, some videos on covert communications, and examples on how to mark AI models and network traffic.
+This module introduces how information hiding techniques can be used both as offensive and defensive mechanisms. In more detail, it first discusses covert channels, with many examples related to emerging real attack campaigns. Then it presents stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. The module also discusses watermarking techniques that can be used to track and protect different types of contents, mainly software and AI. The related matieral contains introductive papers on the topic, some videos on covert communications, and examples on how to mark AI models and network traffic.
 
 **DISCLAIMER:** concepts belonging to this module are at the intersection between industry and research. The idea here is to present advanced techniques that require a "nice thinking" to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker.
 
