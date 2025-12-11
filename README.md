@@ -75,7 +75,8 @@ Covered topics are:
 
 - Analysis of Sunburst 
 - Software Supply Chain attacks and SolarWinds
-- ARP Spoofing and Man-in-the-Middle attacks
+- ARP Spoofing and Man-in-the-Middle Attacks
+- Security Risks of AI-assisted Software Development
 
 
 ## Acknowledgments 
