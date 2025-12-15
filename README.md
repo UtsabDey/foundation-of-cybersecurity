@@ -75,6 +75,7 @@ Covered topics are:
 
 - Analysis of Sunburst 
 - Technical and Economical Analysis of Carbanak
+- The WannaCry Ransomware
 - Software Supply Chain attacks and SolarWinds
 - ARP Spoofing and Man-in-the-Middle Attacks
 - Security Risks of AI-assisted Software Development
