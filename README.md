@@ -74,7 +74,11 @@ This folder contains the .pdf version of the assignments needed to skip part of 
 Covered topics are: 
 
 - Analysis of Sunburst 
+<<<<<<< Updated upstream
 - The WannaCry Ransomware
+=======
+- Technical and Economical Analysis of Carbanak
+>>>>>>> Stashed changes
 - Software Supply Chain attacks and SolarWinds
 - ARP Spoofing and Man-in-the-Middle Attacks
 - Security Risks of AI-assisted Software Development
